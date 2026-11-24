@@ -1,0 +1,1 @@
+timestamp,architecture,service_name,cpu_usage_percent,ram_usage_mb,disk_read_mb_per_sec,disk_write_mb_per_sec

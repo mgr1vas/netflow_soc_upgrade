@@ -1,0 +1,1 @@
+timestamp,architecture,target_flows_per_sec,ingested_flows_per_sec,udp_packet_drops,drop_rate_percent,data_freshness_sec
