@@ -1,6 +1,4 @@
-# netflow_soc_upgrade
-
-Upgrade of the NetFlow monitoring pipeline from a legacy `nfcapd + nfdump + Python bridge` prototype to a modern `GoFlow2 + ClickHouse + Grafana SOC` architecture, including a Before vs. After stress-testing suite.
+# Upgrade of the NetFlow monitoring pipeline from a legacy `nfcapd + nfdump + Python bridge` prototype to a modern `GoFlow2 + ClickHouse + Grafana SOC` architecture, including a Before vs. After stress-testing suite.
 
 ## Repository Structure
 
