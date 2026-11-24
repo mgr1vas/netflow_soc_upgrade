@@ -6,7 +6,7 @@ Legacy Prototype (Before): `Router / softflowd` → `nfcapd` (UDP 9995, 5-min ro
 Modern Prototype (After): `Router / softflowd / NFStream` → `GoFlow2` (UDP 2055 / 6343) → `ClickHouse` (`flows_db.flows`, columnar OLAP storage) → `Grafana` (ClickHouse Data Source & SOC Dashboards).
 ---
 Dashboard / Architecture Preview
-![Project Preview](docs/soc_dashboard_preview.png)
+![Project Preview](assets/uoi_logo.jpg)
 Figure 1: Overview of the upgraded SOC monitoring pipeline and Grafana dashboard.
 ---
 Repository Structure
