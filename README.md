@@ -84,5 +84,5 @@ Storage Footprint & Compression: `benchmarks/results/benchmark_storage_footprint
 Run `benchmarks/results/plot_results.py` after collecting your test runs to generate the comparison charts.
 ---
 Credits
-Author: [Your Name]
+Author: Marios Grivas
 Thesis Supervisor: Christos Gogos
